@@ -17,6 +17,6 @@ int main()
   D = P - S;
   cout<<"Sum= "<<S<<endl;
   cout<<"Product= "<<P<<endl;
-  cout<<"Difference= "<<P<<endl;
+  cout<<"Difference= "<<D<<endl;
   return 0;
 } 
